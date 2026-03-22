@@ -107,8 +107,8 @@ Players are ranked using **18 statistics** grouped into 6 weighted categories:
 ## 🌐 Deployment
  
 The application was deployed and hosted on **Firebase** with a cloud-hosted R Plumber API running on **Google Cloud Run**, automatically refreshed weekly via **Google Cloud Scheduler**.
- 
-> ⚠️ Live demo currently offline — refer to screenshots above for the full UI.
+https://nba-ranking-ds-01.web.app/ — ⚠️ Data pipeline currently offline
+
  
 ---
  
